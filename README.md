@@ -1,16 +1,12 @@
 # Hi 👋, I'm Bouaiss Abdelilah
 
-### Cloud / DevOps Engineer
+### Senior Cloud / DevOps Engineer
 
-- 🌍 Based in Casablanca, Morocco
-
-- 💼 Currently a **Cloud/DevOps Engineer at Inetum**
-
-- 🔭 I'm currently working on **DevSecOps pipelines and IaC for public Cloud**
+- 🔭 I'm currently working on **DevSecOps pipelines and IaC for public Clouds**
 
 - 🚀 Building **ShopKube** — an EKS-based e-commerce platform (Angular · Spring Boot · Terraform · GitLab CI/CD)
 
-- 📜 **Certified:** AWS Solutions Architect Associate · Azure Administrator Associate · HashiCorp Terraform Associate
+- 📜 **Certified:** AWS Solutions Architect Associate · Azure Administrator · HashiCorp Terraform Associate
 
 - 💬 Ask me about **AWS, Azure, Kubernetes, Terraform, DevSecOps**
 
