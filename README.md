@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bouaiss Abdelilah
 
-### Senior Cloud / DevOps Engineer
+### Senior Cloud / DevSecOps Engineer
 
 - 🔭 I'm currently working on **DevSecOps pipelines and IaC for public Clouds**
 
